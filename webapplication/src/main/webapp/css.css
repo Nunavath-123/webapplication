@@ -1,0 +1,18 @@
+div{
+  position: fixed;
+  top: 200px;
+  margin-left: 800px;
+  text-align: center;
+  width: 300px;
+  height: 350px;
+  
+
+}
+body{
+  background-repeat: no-repeat;
+  background-image:url(./uppi.jpg );
+}
+input{
+  height: 30px;
+  width: 200px;
+}
